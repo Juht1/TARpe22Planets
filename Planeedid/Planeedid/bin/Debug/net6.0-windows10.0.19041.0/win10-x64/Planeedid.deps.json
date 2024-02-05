@@ -11,6 +11,7 @@
         "dependencies": {
           "Microsoft.Maui.Dependencies": "6.0.553",
           "Microsoft.Maui.Extensions": "6.0.553",
+          "Microsoft.UI.Xaml": "2.8.2",
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "6.0.21",
           "runtimepack.Microsoft.Maui.Core.Runtime.win": "6.0.553",
           "runtimepack.Microsoft.Maui.Controls.Runtime.win": "6.0.553",
@@ -1045,6 +1046,32 @@
           }
         }
       },
+      "Microsoft.UI.Xaml/2.8.2": {
+        "dependencies": {
+          "Microsoft.Web.WebView2": "1.0.1264.42"
+        }
+      },
+      "Microsoft.Web.WebView2/1.0.1264.42": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.1264.42",
+            "fileVersion": "1.0.1264.42"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll": {
+            "assemblyVersion": "1.0.1264.42",
+            "fileVersion": "1.0.1264.42"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.1264.42",
+            "fileVersion": "1.0.1264.42"
+          }
+        },
+        "native": {
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "fileVersion": "1.0.1264.42"
+          }
+        }
+      },
       "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {},
       "Microsoft.WindowsAppSDK/1.1.5": {
         "dependencies": {
@@ -1231,6 +1258,20 @@
       "sha512": "sha512-9nIgbDKaBuy8WVPVaiYamyl8qBCYQc/0Y52Ejj2QBq5thPQq5opZXy6sSq88j0BTmin3mPVuU0Ww4wC5p/1QJA==",
       "path": "microsoft.maui.graphics.win2d.winui.desktop/6.0.501",
       "hashPath": "microsoft.maui.graphics.win2d.winui.desktop.6.0.501.nupkg.sha512"
+    },
+    "Microsoft.UI.Xaml/2.8.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JcEwDcBcpylvO79/B3wnIpwtXDUvtk/IE1r7P3RMt5YSfBsAAoZzZJtmSCERRonhR+NEQXkgRDn9jXVfqsyftg==",
+      "path": "microsoft.ui.xaml/2.8.2",
+      "hashPath": "microsoft.ui.xaml.2.8.2.nupkg.sha512"
+    },
+    "Microsoft.Web.WebView2/1.0.1264.42": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7OBUTkzQ5VI/3gb0ufi5U4zjuCowAJwQg2li0zXXzqkM+S1kmOlivTy1R4jAW+gY5Vyg510M+qMAESCQUjrfgA==",
+      "path": "microsoft.web.webview2/1.0.1264.42",
+      "hashPath": "microsoft.web.webview2.1.0.1264.42.nupkg.sha512"
     },
     "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
       "type": "package",

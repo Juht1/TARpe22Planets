@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3goLhAsccbt1DxLYdjDPZW0gV9xoGA/cuuMcl5FPmcJU9sddTmaEDg8EwzwyIsgPev1z2zELd3VFiakrabvWVg==",
+  "dgSpecHash": "HY9UB3wwQuAmqwFrLeK06lfB28ckoYYyhKlb30ZJhifc+hTWrRWt4W5b0IfTbveHWOTeRUuSY9xH/mCB+HSo2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\opilane\\source\\repos\\TARpe22Planets\\Planeedid\\Planeedid\\Planeedid.csproj",
   "expectedPackageFiles": [
@@ -18,6 +18,8 @@
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.maui.extensions\\6.0.553\\microsoft.maui.extensions.6.0.553.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.maui.graphics\\6.0.501\\microsoft.maui.graphics.6.0.501.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\6.0.501\\microsoft.maui.graphics.win2d.winui.desktop.6.0.501.nupkg.sha512",
+    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.ui.xaml\\2.8.2\\microsoft.ui.xaml.2.8.2.nupkg.sha512",
+    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.web.webview2\\1.0.1264.42\\microsoft.web.webview2.1.0.1264.42.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.windowsappsdk\\1.1.5\\microsoft.windowsappsdk.1.1.5.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
