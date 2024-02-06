@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HY9UB3wwQuAmqwFrLeK06lfB28ckoYYyhKlb30ZJhifc+hTWrRWt4W5b0IfTbveHWOTeRUuSY9xH/mCB+HSo2Q==",
+  "dgSpecHash": "nRf6rPjeiWsskbWfFG+uSuKIBAJKo1RQf9zY+YOjw0nOEFyo+W7wHOmlL4mOygTSVEQ8WyjngCGtEahCmGYZwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\TARpe22Planets\\Planeedid\\Planeedid\\Planeedid.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\TARpe22SciCalc\\TARpe22SciCalc\\TARpe22Planets\\Planeedid\\Planeedid\\Planeedid.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

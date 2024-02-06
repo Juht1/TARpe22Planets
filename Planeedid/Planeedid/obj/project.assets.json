@@ -26017,11 +26017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TARpe22Planets\\Planeedid\\Planeedid\\Planeedid.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TARpe22SciCalc\\TARpe22SciCalc\\TARpe22Planets\\Planeedid\\Planeedid\\Planeedid.csproj",
       "projectName": "Planeedid",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\TARpe22Planets\\Planeedid\\Planeedid\\Planeedid.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\TARpe22SciCalc\\TARpe22SciCalc\\TARpe22Planets\\Planeedid\\Planeedid\\Planeedid.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\TARpe22Planets\\Planeedid\\Planeedid\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\TARpe22SciCalc\\TARpe22SciCalc\\TARpe22Planets\\Planeedid\\Planeedid\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
