@@ -116,8 +116,8 @@
         </Border.StrokeShape>
 
             <VerticalStackLayout
-                Spacing="16"
-                
+                Spacing="16">
+
                 <Label
                     HorizontalOptions="Center"
                     HorizontalTextAlignment="Center"
