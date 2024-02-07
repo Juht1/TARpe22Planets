@@ -10,5 +10,8 @@
     <Color x:Key="DarkTextColor">#252525</Color>
     <!--Treee-->
     <Color x:Key="ButtonBackroundColor">#EB5757</Color>
+    <Color x:Key="PageBackroundColor">#191932</Color>
+    <Color x:Key="LightTextColor">#D5D5D5</Color>
+    <Color x:Key="LightBorderColor">#D5D5D5</Color>
 
 </ResourceDictionary>
