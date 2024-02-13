@@ -10,11 +10,11 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Planeedid
 build_property.ProjectDir = C:\Users\opilane\source\repos\TARpe22SciCalc\TARpe22SciCalc\TARpe22Planets\Planeedid\Planeedid\
 
-[C:/Users/opilane/source/repos/TARpe22SciCalc/TARpe22SciCalc/TARpe22Planets/Planeedid/Planeedid/app.xaml]
+[C:/Users/opilane/source/repos/TARpe22SciCalc/TARpe22SciCalc/TARpe22Planets/Planeedid/Planeedid/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = Planeedid.app.xaml
-build_metadata.AdditionalFiles.TargetPath = app.xaml
-build_metadata.AdditionalFiles.RelativePath = app.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Planeedid.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
 
 [C:/Users/opilane/source/repos/TARpe22SciCalc/TARpe22SciCalc/TARpe22Planets/Planeedid/Planeedid/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -27,6 +27,12 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Planeedid.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/opilane/source/repos/TARpe22SciCalc/TARpe22SciCalc/TARpe22Planets/Planeedid/Planeedid/Views/PlanetDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Planeedid.Views.PlanetDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PlanetDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PlanetDetailsPage.xaml
 
 [C:/Users/opilane/source/repos/TARpe22SciCalc/TARpe22SciCalc/TARpe22Planets/Planeedid/Planeedid/Views/PlanetsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

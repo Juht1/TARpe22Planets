@@ -9,6 +9,9 @@
     <MauiXaml Update="app.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Views\PlanetDetailsPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="Views\PlanetsPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
